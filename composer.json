@@ -1,5 +1,5 @@
 {
-  "name": "salsify/json-streaming-parser",
+  "name": "p1ratrulezzz/json-streaming-parser",
   "description": "A streaming parser for JSON in PHP.",
   "keywords": ["json", "parser", "streaming"],
   "homepage": "https://github.com/salsify/jsonstreamingparser",
@@ -23,6 +23,11 @@
     {
       "name": "ThePanz",
       "email": "thepanz@gmail.com"
+    },
+    {
+      "name": "P1ratRuleZZZ",
+      "email": "github@p1ratrulezzz.me",
+      "homepage": "http://blog.jazinbaz.in/"
     }
   ],
   "require": {
