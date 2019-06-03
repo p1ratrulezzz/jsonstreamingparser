@@ -189,10 +189,9 @@ class Parser
                 }
                 
                 try {
-                  $this->charNumber++;
                   $this->bytesRead += strlen($line[$i]);
-                  
                   $this->consumeChar($line[$i]);
+                  $this->charNumber++;
                 }
                 catch (\Exception $e) {
                   throw $e;
